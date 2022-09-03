@@ -1,0 +1,29 @@
+.navbar{
+  height: 30px;
+  width: 100%;
+  padding-top: 10px;
+  margin: 0;
+  background-color: rgba(187, 156, 240, 0.14);
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+li {
+  text-shadow: 2px 2px 3px black;
+  color: blue;
+}
+
+.CartStyle{
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+
+.Productos img{
+  height: 200px;
+  width: 200px;
+}
+
+
